@@ -1,1 +1,3 @@
 print("merhaba unity ilgili oyun projem")
+
+print("oyun devam ediyor")
