@@ -8,3 +8,5 @@ print("oyunda mola kısmı")
 =======
 print("merhaba unity ilgili oyun projem")
 
+print("oyun bitiyor")
+fonksiyon 
